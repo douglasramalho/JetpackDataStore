@@ -67,14 +67,14 @@
         android:id="@+id/inputLayoutReadKey"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="120dp"
+        android:layout_marginTop="20dp"
         android:hint="@string/hint_input_key"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/buttonSave">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/inputReadValue"
+            android:id="@+id/inputReadKey"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
