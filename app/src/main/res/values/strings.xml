@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetpackDataStore</string>
+    <string name="text_title">Jetpack DataStore</string>
+    <string name="hint_input_key">Digite uma chave</string>
+    <string name="hint_input_value">Digite um valor</string>
+    <string name="button_save">Salvar</string>
+    <string name="button_read">Ler</string>
+</resources>
